@@ -1,2 +1,0 @@
-ofa_nets/ofa_resnet50_d0-1-2_e0.2-0.25-0.35_w0.65-0.8-1.0 filter=lfs diff=lfs merge=lfs -text
-imagenet_1k.zip filter=lfs diff=lfs merge=lfs -text
